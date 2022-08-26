@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "title": "Chocolate Chip Cookies",
+        "category": "cake shop",
+        "amount":6,
+        "recipes": [
+            {
+                "recipe": "Harina",
+                "amount": 80,
+                "unitMeasurement": "g",
+                "optional": false
+            },
+            {
+                "recipe": "Mantequilla",
+                "amount": 120,
+                "unitMeasurement": "g",
+                "optional": false
+            },
+            {
+                "recipe": "Azúcar",
+                "amount": 1.25,
+                "unitMeasurement": "cucharadita ",
+                "optional": false
+            },
+            {
+                "recipe": "Bicarbonato",
+                "amount": 1.25,
+                "unitMeasurement": "g",
+                "observations": " 1/4 cucharadita",
+                "optional": true
+            },
+            {
+                "recipe": "Esencia de vainilla",
+                "amount": 5,
+                "unitMeasurement": "g",
+                "observations": " 1 cucharadita",
+                "optional": true
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Pastel de manzana",
+        "category": "cake shop",
+        "amount":8,
+        "recipes": [
+            {
+                "recipe": "Harina",
+                "amount": 120,
+                "unitMeasurement": "g",
+                "optional": false
+            },
+            {
+                "recipe": "Mantequilla",
+                "amount": 140,
+                "unitMeasurement": "g",
+                "optional": false
+            },
+            {
+                "recipe": "Azúcar",
+                "amount": 4,
+                "unitMeasurement": "cucharadita ",
+                "optional": false
+            },
+            {
+                "recipe": "Bicarbonato",
+                "amount": 2,
+                "unitMeasurement": "g",
+                "observations": " 1/4 cucharadita",
+                "optional": true
+            },
+            {
+                "recipe": "Esencia de vainilla",
+                "amount": 10,
+                "unitMeasurement": "g",
+                "observations": " 1 cucharadita",
+                "optional": true
+            }
+            
+        ]
+    }
+]
